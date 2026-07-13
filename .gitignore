@@ -21,3 +21,5 @@ __pycache__/
 
 models/
 catboost_info/
+
+.agents/
