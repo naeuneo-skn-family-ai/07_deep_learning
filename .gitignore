@@ -23,6 +23,3 @@ models/
 catboost_info/
 
 .agents/
-
-cifar*
-cifar*.*
