@@ -23,3 +23,5 @@ models/
 catboost_info/
 
 .agents/
+
+*.mat
